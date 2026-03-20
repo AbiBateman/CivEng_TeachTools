@@ -1,2 +1,2 @@
 # CivEng_TeachTools
-Univesrity level teaching tools for civil engineering
+University teaching tools for civil engineering
